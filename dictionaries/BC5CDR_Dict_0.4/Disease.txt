@@ -1,0 +1,516 @@
+HIT
+necrosis
+Turner Syndrome
+Lupus Glomerulonephritis
+Dental Wear
+milk fever
+Focal facial dermal dysplasia type 2
+pulmonary hypertension
+Left Flank Pain
+Unilateral Vocal Cord Paralysis
+exencephalic
+Suspect Glaucoma
+Heart Disease
+Reye Johnson Syndrome
+Lower Back Pains
+artery calcification
+Transient Apical Ballooning Syndrome
+Acute Coronary Syndrome
+Retinal Vein Thrombosis
+Polycystic Ovarian Syndrome
+fulminant hepatic failure
+Ischemic Heart Diseases
+ESRD
+Nodular Elastosis
+variant angina
+Cognitive Declines
+Hepatic Cancers
+Ventricular Remodeling
+aneurysms
+CHF
+agitation
+Cleft Lips
+Cluster Headache Syndrome
+Aneurysmal Subarachnoid Hemorrhages
+Deafness dystonia syndrome
+DM
+Disseminated Intravascular Coagulation
+Right Sided Heart Failure
+malignancy
+Mental Disorder
+hypoxia
+hoarseness
+Vocal Cord Paralysis And Ptosis
+Lupus Nephritis
+MAHA
+sepsis
+Precordial Catch Syndrome
+Severe combined immunodeficiency with hypereosinophilia
+HYPOPLASTIC LEFT HEART SYNDROME 2
+Paroxysmal familial ventricular fibrillation
+Ventricle Remodeling
+Disease Progression
+PANIC DISORDER 2
+Liver Abscess
+Familial Hemiplegic Migraines
+Clinical Deterioration
+memory impairment
+Chest Pains
+Rheumatic Fever
+Serotonin Syndrome
+Antisocial Personality
+External Carotid Artery Thrombosis
+glomerulonephritis
+blood coagulation
+Back Pain
+Acute Kidney Injury
+hypertension
+Heroin Dependence
+prolactinoma
+depressive
+Petit Mal Status
+Depressive Disorder
+X Linked Chondrodysplasia Punctata 2
+Vascular Remodeling
+Depressive Syndromes
+AV Block
+Nephrotic Syndromes
+Flank Pain
+Psychomotor Restlessness
+Putamen Hemorrhage
+Marginal Ulcers
+OCD
+Manic States
+Endometrial Hyperplasia
+DiGeorge Syndrome
+Depressive Neurosis
+schizophrenia
+Visceral Pain
+Multisystem Atrophy
+renal papillary necrosis
+Anesthesia Related Hyperthermia
+Atrioventricular Conduction Blocks
+Acute Renal Insufficiency
+Behavior Disorders
+idiopathic Parkinson 's disease
+Vasogenic Cerebral Edema
+vasculitis
+Manic State
+tinnitus
+Myotonic Myopathy
+Acquired Vocal Cord Palsy
+depressed
+Syndrome de Gerstmann
+Drug Hypersensitivity
+visual field defects
+Myocardial Stunning
+TdP
+parkinsonism
+Delirium
+Familial Atrial Fibrillations
+coronary spasm
+Cleft Lip
+anaphylaxis
+Idiopathic Trigeminal Neuralgia
+metabolic acidosis
+Hearing Impairment
+Seizure
+Delusional Parasitosis
+Complications of Diabetes Mellitus
+Bare Lymphocyte Syndromes
+Adult Reye Syndrome
+Hyperthermia of Anesthesia
+Acute Yellow Atrophy
+Congenital Myotonic Dystrophy
+Ischemic Heart Disease
+Panic Disorders
+meth mouth
+Fatty Liver
+endometrial cancer
+fractures
+TRANSKETOLASE DEFECT
+reduction in glomerular number
+Hepatocellular Cancer
+Intracranial Subarachnoid Hemorrhages
+Right Flank Pain
+Heart Attacks
+Prolonged Aura Migraine
+Renal Insufficiency
+Hepatic Cirrhosis
+Cognitive Impairments
+hand - foot syndrome
+acute tubular necrosis
+Respiratory Failure
+albuminuria
+Intracerebral Hemorrhage
+Congenital absence of the nose
+tremors
+diabetic
+Birth Weights
+Burkitt Lymphoma
+Cancer Associated Pain
+Back Aches
+Postural Low Back Pain
+Tooth Wear
+Male Impotence
+parkinsonian
+Sinoatrial Blocks
+Focal Nodular Hyperplasia
+Cerebral Infarctions
+Epileptiform Neuralgia
+Dermatoses
+Wegener 's granulomatosis
+Glandular Fever
+Myasthenia familial infantile
+arrhythmias
+hemorrhagic
+Delayed Serologic Transfusion Reaction
+Musculoskeletal Pains
+Leukemic Infiltration
+mucositis
+Coronary Occlusion
+Drug Allergies
+Adult granulosa cell tumor of the ovary
+Capillary Leak Syndrome
+Generalized Myotonia
+Acute Coronary Syndromes
+Ischemia Reperfusion Injury
+Cerebral Parenchymal Hemorrhages
+hepatitis B
+Acute Kidney Injuries
+vasospasm
+Erythema Multiforme
+Keratoconjunctivitis Sicca
+hyperactivity
+Atrial Cardiomyopathy with Heart Block
+liver damage
+Graves ' disease
+Weight Reductions
+Myocardial Infarctions
+HYPOPLASTIC LEFT HEART SYNDROME 1
+Mood Disorder
+aggressiveness
+bipolar
+akinetic
+Neurologic Degenerative Diseases
+Congenital Healed Cleft Lip
+Essential Hypertension
+VTE
+encephalopathy
+Sinoatrial Exit Blocks
+Liver Cirrhosis
+Impotence
+Grand Mal Status Epilepticus
+cataract
+glomerular sclerosis
+Steinert Disease
+psychiatric
+cataracts
+Foot Deformities
+Ptosis vocal cord paralysis
+Necrotizing Arteritis
+Laryngeal Paralysis
+Chronically Ill
+Congenital Vocal Cord Palsy
+Birth Weight
+cognitive deficits
+Bare Lymphocyte Syndrome
+Acute Onset Aura Migraine
+Acquired Immunodeficiency Syndrome
+Hypotension
+Familial Atrial Fibrillation
+Schizophreniform Disorder
+Elevated Intracranial Pressure
+cocaine abuse
+DiGeorge Sequence
+Degenerative Neurologic Disease
+Restless Legs Syndrome
+glycosuria
+Spontaneous Subarachnoid Hemorrhage
+Antiphospholipid Syndrome
+tachycardia
+Wernicke Korsakoff Syndrome
+gallbladder disease
+Coronary Aneurysm
+Acute Kidney Failure
+hemorrhage
+Liver Cancer
+non - small cell lung cancer
+hyponatremia
+Leukemic Infiltrations
+Subclinical Status Epilepticus
+Myocardial Infarct
+Deep Vein Thromboses
+Torsade de Pointes
+Idiopathic Intracranial Hypertension
+Complex Endometrial Hyperplasia
+Heroin Addiction
+hypertrophy
+Extrapyramidal Rigidity
+Intravascular Disseminated Coagulation
+Vocal Tic Disorder
+nephrosis
+atrophy
+Acquired Immune Deficiency Syndrome
+poisoning
+Myxomatous Mitral Valve Prolapse 3
+Ventricular Dysfunctions
+Coronary Heart Disease
+toxicities
+Febrile Neutropenia
+Diaphragmatic Paralysis
+Clinical Capillary Leak Syndrome
+Mild Neurocognitive Disorders
+Granulosa Cell Tumors
+Psychogenic purpura
+peripheral neuropathy
+Mild Cognitive Impairment
+HIV - infected
+Bipolar Depression
+Anti Phospholipid Syndrome
+hypertensive
+infarction
+Gastroesophageal Reflux Disease
+thrombotic microangiopathy
+malignancies
+thrombi
+visual loss
+aneurysm
+Bilateral radial aplasia with Wilms tumor
+Long Qt Syndrome 8
+Familial Hemiplegic Migraine
+anuria
+Cancer Pains
+Perinatal Subarachnoid Hemorrhage
+hiccups
+breast carcinoma
+hepatomegaly
+dry mouth
+Proteinuria
+secondary hyperalgesia
+Burkitt Cell Leukemia
+glaucoma
+Cardiovascular Diseases
+Coronary Aneurysms
+Birth Defect
+Chronic Pain
+Retinal Vein Occlusions
+ALF
+Macular Edema
+Back Ache
+Fatty Liver with Encephalopathy
+Kaposi 's sarcoma
+glomerulosclerosis
+Depression
+Alzheimer 's disease
+Spontaneous Subarachnoid Hemorrhages
+Reperfusion Injury
+Pleural Effusions
+Biliary Atresia
+Congenital nephrotic syndrome 1
+Parkinson 's Disease
+Shoulder Hand Syndrome
+Atypical Cluster Headache
+chronic renal failure
+Putaminal Hematoma
+Skin Diseases
+Electrographic Status Epilepticus
+Diabetes Complication
+Male Sexual Impotence
+Schizophreniform Disorders
+Basal ganglia disorder with mental retardation
+Liver Insufficiency
+Soft Tissue Infections
+Joint contractures with other abnormalities
+Low Back Aches
+Malignant Hyperthermia
+Kidney Disease
+acute liver failure
+Unipolar Depression
+Complex Partial Status Epilepticus
+mitral regurgitation
+Diffuse mesangial sclerosis
+Reperfusion Injuries
+nephrolithiasis
+Transfusion Associated Allergic Reaction
+fibrosis
+Broken Heart Syndrome
+Mitral Valve Prolapse
+Thiamine responsive myelodysplasia
+MR
+Consumption Coagulopathies
+Periodic systemic capillary leak syndrome
+spasm
+Heroin Abuse
+Multiple Myeloma
+Cerebral Hemorrhages
+myoclonic jerks
+Basilar Migraines
+Neurologic Degenerative Condition
+King syndrome
+Bronchiolitis Obliterans
+Gastroesophageal Reflux
+Rheumatic Arthritis
+Experimental Spinal Cord Ischemia
+Familial erythema nodosum
+Atrioventricular Blocks
+myopathy
+Ventricular Cardiac Remodeling
+Transfusion Associated Dyspnea
+Widespread Chronic Pains
+Autosomal dominant atrial fibrillation
+Mitochondrial cytopathy
+atherosclerosis
+Peptic Ulcers
+Coronary Thrombosis
+Cleft lip with progressive retinopathy
+Solitary Kidney
+Staphylococcal Infection
+Neurodegenerative Diseases
+Congenital bilateral recurrent nerve paralysis and ptosis
+Cystoid Macular Dystrophy
+Transfusion Transmitted Infection
+hypothyroid
+Chronic Pains
+cardiac arrest
+Sinoatrial Block
+Corneal crystals myopathy and nephropathy
+Atonic Cerebral Palsy
+liver disease
+prostate cancer
+Permanent Neonatal Diabetes Mellitus
+Cancer Related Pain
+Inclusion Diseases
+Left Ventricular Apical Ballooning Syndrome
+Postoperative Nausea and Vomiting
+Butyrylcholinesterase deficiency
+Optic atrophy plus syndrome
+Anti Phospholipid Antibody Syndrome
+Basal Ganglion Disorder With Mental Retardation
+Elastosis perforans serpiginosa
+Pericardial Effusion
+Episodic Cluster Headache
+Staphylococcus aureus Infections
+Myxomatous Mitral Valve Prolapse 1
+ventricular tachycardia
+Congenital absence of uterus and vagina
+renal dysfunction
+Wilson 's disease
+Cerebral Hemorrhage
+NSCLC
+Heart Failure
+Acute Renal Failure
+Atrioventricular Block
+schizophrenic
+nephropathy
+Motor Tic Disorder
+Fanconi Syndrome
+Proximal Myotonic Myopathies
+Aortic Aneurysms
+Cytotoxic Brain Edema
+Venous Thromboses
+convulsive
+PULMONARY FUNCTION
+Hepatocellular Cancers
+Secondary Trigeminal Neuralgia
+Coronary Diseases
+Serotonin Syndromes
+allergic reaction
+Hypotensive Transfusion Reaction
+Neurogenic Muscular Atrophy
+Coenzyme Q Deficiency
+Respiratory Depression
+Ventricular Fibrillations
+Optic Atrophy
+hyperemia
+Retinal Vein Occlusion
+renal injury
+Granulosa Cells Cancer
+hemolytic anemia
+Severe Combined Immunodeficiency
+Idiopathic portal hypertension
+Coronary Arteriosclerosis
+Left Flank Pains
+Affective Disorder
+Vocal Fold Palsies
+Acute Pain
+myocarditis
+pseudolithiasis
+polydipsia
+Quadriplegic Infantile Cerebral Palsy
+MS
+Acute Renal Injury
+Wet Lungs
+epilepsy
+atherosclerotic
+dystonia
+Neurodegenerative Disorders
+Chronic Illness
+Coronary Thromboses
+Migraine without Aura
+toxicity
+Biliary malformation with renal tubular insufficiency
+Febrile Non Hemolytic Transfusion Reaction
+Reflex Sympathetic Dystrophy Syndrome
+Signs and Symptoms
+Ocular Hypertension
+Insulin Sensitivity
+Migraine with Typical Aura
+Ebstein 's anomaly
+acidosis
+leukoencephalopathy
+Leukemoid Reactions
+Gestational Trophoblastic Neoplasia
+Childhood Tic Disorder
+Heart Attack
+TG
+Diffuse isolated mesangial sclerosis
+Acrodermatitis enteropathica
+Stippled Epiphyses
+anencephaly
+Transfusion Reaction
+Cervical Sympathetic Dystrophy
+Coronary Heart Diseases
+stomatitis
+RPN
+Transient Tic Disorders
+Spastic Cerebral Palsies
+Bicuspid Aortic Valve
+Familial startle disease
+Oncological Pain
+Coronary Artery Disease With Myocardial Infarction
+Pelvic Pain
+Bilateral Wilms Tumor
+Generalized Status Epilepticus
+Headache
+Dyskinetic Cerebral Palsy
+Arteriovenous Malformation
+Common Carotid Artery Thrombosis
+Polyarteritis Nodosa
+AIDS
+Fanconi syndrome
+autoimmune hemolytic anemia
+platelet aggregation
+Radial ray hypoplasia with choanal hypoplasia
+Motor Tic Disorders
+AV Blocks
+major depression
+PANIC DISORDER 1
+nephrotoxic
+coagulopathy
+cholestasis
+jaundice
+Bubble boy disease
+Atypical Endometrial Hyperplasia
+neurotoxicity
+myalgia
+hepatitis
+orthostatic hypotension
+Vocal Cord Paralysis
+Pseudocholinesterase deficiency
+hyperkalemia
+Diabetes Mellitus
+Idiopathic ventricular fibrillation
+sensorineural hearing loss
+Hepatic Insufficiency
+Atypical Cluster Headaches
