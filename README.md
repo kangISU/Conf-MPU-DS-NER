@@ -16,13 +16,14 @@ Download glove and bio-embedding and put them in `./data`. See the links in our 
 > ```
 > Step 1: python pu_main.py --type bnPU --dataset BC5CDR_Dict_1.0 --flag Entity --m 10 --determine_entity True --embedding bio-embedding --epochs 100
 > ```
-> Step 1 is to do a binary classification (i.e., `\lambda`) in token-level to determine entity tokens.
+> Step 1 is to do a binary classification (i.e., `\lambda`) in token-level to determine entity tokens. The trained model will be saved in
+> `./saved_model`.
 > 
 > ```
 > Step 2: python pu_main.py --type bnPU --dataset BC5CDR_Dict_1.0 --add_probs True --flag ALL --added_suffix entity_prob --embedding bio-embedding
 > ```
 > Step 2 is to append predicted confidence scores to the training data. The generated training data will be the input of the model with Conf-MPU risk
- estimation.
+ estimation. You need to manually pass the path of the saved model in step 1 in `pu_main.py` (in the block of `elif args.add_probs:`).
 > 
 > ```
 > Step 3: python pu_main.py --type conf_mPU --dataset BC5CDR_Dict_1.0 --flag ALL --suffix entity_prob --m 28 --eta 0.5 --lr 0.0005 --loss MAE
@@ -88,7 +89,8 @@ Download glove and bio-embedding and put them in `./data`. See the links in our 
 > ```
 > Step 3: python pu_main.py --type bnPU --dataset BC5CDR_Dict_1.0 --inference True --embedding bio-embedding
 > ```
-> Step 3 is to infer the final prediction. 
+> Step 3 is to infer the final prediction. You need to manually pass the path of saved models in the first 2 steps in `pu_main.py` (in the block of
+> `if args.inference:`). 
 
 
 > #### Example 2: train on CoNLL2003_Dict_1.0

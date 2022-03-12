@@ -179,8 +179,11 @@ def main():
 
         trainer.train(trainSet, validSet, dp, args)
 
-        model_path = 'saved_model/' + args.model_name
-        pred_path = 'predicted_data/' + args.dataset
+        model_dir = 'saved_model'
+        if not os.path.exists(model_dir):
+            os.mkdir(model_dir)
+        model_path = os.path.join(model_dir, args.model_name)
+        pred_path = os.path.join('predicted_data', args.dataset)
         if not os.path.exists(pred_path):
             os.mkdir(pred_path)
 
