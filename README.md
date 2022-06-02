@@ -109,10 +109,4 @@ Download glove and bio-embedding and put them in `./data`. See the links in our 
 
 
 ## Citation
-@inproceedings{zhou2022distantly,
-  title={Distantly Supervised Named Entity Recognition via Confidence-Based Multi-Class Positive and Unlabeled Learning},
-  author={Zhou, Kang and Li, Yuepei and Li, Qi},
-  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  pages={7198--7211},
-  year={2022}
-}
+[Distantly Supervised Named Entity Recognition via Confidence-Based Multi-Class Positive and Unlabeled Learning](https://aclanthology.org/2022.acl-long.498) (Zhou et al., ACL 2022)
