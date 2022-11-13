@@ -2,7 +2,7 @@
 The code is developed based on https://github.com/v-mipeng/LexiconNER.
 
 ## Note:
-MPU and Conf-MPU with BERT will be released soon. (If it's urgent for you to perform experiments with them, please feel free to email me, and I will send you the code which is not organized very well for now.)
+The BERT-based implementation is on https://github.com/kangISU/Conf-MPU-BERT-DS-NER.
 
 ## Environment:
 Python 3.7, pytorch 1.4
